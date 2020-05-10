@@ -10,7 +10,7 @@ namespace WebApplication2.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
-        // GET api/values/1_67
+        // GET api/values/1_67_new
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
